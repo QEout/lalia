@@ -65,11 +65,6 @@
 1. 数据库表名使用下划线命名方式，且表名开头的第一个单词为`allpass`；
 2. 表的列名与model相同，采用小写驼峰命名方式；
 
-# 仓库地址
-| 位置 | 地址                                   |
-| ---- | -------------------------------------- |
-| Github | [https://github.com/sunyongsheng/Allpass](https://github.com/sunyongsheng/Allpass) |
-| 码云 | [https://gitee.com/sunyongsheng/Allpass](https://gitee.com/sunyongsheng/Allpass) |
 
 # Flutter环境
 ```
